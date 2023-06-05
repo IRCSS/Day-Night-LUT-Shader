@@ -1,6 +1,7 @@
 Day Night Cycle in Blender 3D using LUTs in Material
 =================
 
+![screenshot](documentation/DaynightCover.jpg)
 ![screenshot](documentation/DayNightLUTShader.gif)
 
 This repo contains the shader code for applying a LUT in the material to any RGB color. It was made and tested on **Blender version 3.5**. 
